@@ -1,0 +1,25 @@
+get_member:
+  -
+    - "zhangsan"
+    - 0
+    - "ok"
+
+creat_member:
+  -
+    - "zhangsan"
+    - "张三"
+    - 1
+    - "+86 13800000000"
+    - 0
+
+update_member:
+  -
+    - "zhangsan"
+    - "张三01"
+    - 0
+
+delete_member:
+  -
+    - "zhangsan"
+    - 0
+
